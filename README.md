@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Chào mọi người!, mình là Poi!  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Chào mọi người, mình là Poi!  
 
 🚀 IT | Creator | Planner | Game Developer
 💡 Đam mê xây dựng hệ thống và tối ưu hiệu suất.  
