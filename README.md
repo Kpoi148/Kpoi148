@@ -8,8 +8,6 @@
 > **"Biến ý tưởng thành hiện thực thông qua dòng code và sự sáng tạo."**
 
 * 🔭 Tôi hiện đang tập trung phát triển các dự án Game 2D trên Unity.
-* 📚 Đang xây dựng nền tảng học tập **LingoLoot** với Next.js.
-* ✍️ Quản lý nội dung cho page **TeeWeeGame** - chia sẻ kiến thức về ngành Game.
 
 ---
 
